@@ -7,7 +7,7 @@
 ![Arachnida](https://progress-bar.dev/0/?title=🔄%20&color=303030&width=100) - [Arachnida](https://github.com/SrJupi/bootcampCyber-arachnida)  
 
 
-⭐ -> Project aprroved with bonus  
+⭐ -> Project approved with bonus  
 ✅ -> Project approved  
 🔄 -> Project started  
 🚫 -> Project not started
