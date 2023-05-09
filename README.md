@@ -5,7 +5,7 @@
 ![Python01](https://progress-bar.dev/100/?title=✅%20&color=303030&width=100) - [Python01](https://github.com/SrJupi/bootcampCyber-python01)  
 ![Python02](https://progress-bar.dev/100/?title=✅%20&color=303030&width=100) - [Python02](https://github.com/SrJupi/bootcampCyber-python02)  
 ![Arachnida](https://progress-bar.dev/50/?title=🔄%20&color=303030&width=100) - [Arachnida](https://github.com/SrJupi/bootcampCyber-arachnida)  
-![ft_otp](https://progress-bar.dev/0/?title=🚫%20&color=303030&width=100) - ft_otp  
+![ft_otp](https://progress-bar.dev/0/?title=🔄%20&color=303030&width=100) - [ft_otp](https://github.com/SrJupi/bootcampCyber-ft_otp)  
 ![ft_onion](https://progress-bar.dev/100/?title=🔄%20&color=303030&width=100) - [ft_onion](https://github.com/SrJupi/bootcampCyber-ft_onion)  
 
 
